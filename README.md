@@ -2,4 +2,4 @@
 
 # Initial Page scroll down PREVIOUS AND NEXT Button for pagination
 
-![intial_page](images_for_readme/pagination1.png)
+![intial_page](my-app/images_for_readme/pagination1.png)
